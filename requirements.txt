@@ -1,0 +1,13 @@
+faiss-cpu
+numpy
+groq
+langchain
+sentence_transformers
+requests
+yfinance
+pandas
+edgartools==4.0.2
+sec_downloader
+sec_parser
+ta
+scipy
